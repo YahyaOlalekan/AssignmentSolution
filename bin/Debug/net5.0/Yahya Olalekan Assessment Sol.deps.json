@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yahya Olalekan Assessment Sol/1.0.0": {
+        "runtime": {
+          "Yahya Olalekan Assessment Sol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yahya Olalekan Assessment Sol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.exe
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.deps.json
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.runtimeconfig.json
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.runtimeconfig.dev.json
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\ref\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.pdb
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.AssemblyInfoInputs.cache
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.AssemblyInfo.cs
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\ref\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.pdb
+C:\Users\USER PC\Desktop\Yahya Olalekan Assessment Sol\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.genruntimeconfig.cache
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.exe
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.deps.json
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.runtimeconfig.json
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.runtimeconfig.dev.json
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\ref\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\AssessmentSolution\bin\Debug\net5.0\Yahya Olalekan Assessment Sol.pdb
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.AssemblyInfoInputs.cache
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.AssemblyInfo.cs
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\ref\Yahya Olalekan Assessment Sol.dll
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.pdb
+C:\Users\USER PC\Desktop\AssessmentSolution\obj\Debug\net5.0\Yahya Olalekan Assessment Sol.genruntimeconfig.cache
